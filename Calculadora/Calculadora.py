@@ -7,4 +7,5 @@ x=input()
 y=input()
 print(x + y)
 
-#jose es muy gay
+#josue es muy gay
+#faz sozinho hugo se fodi
