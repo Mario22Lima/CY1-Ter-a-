@@ -3,4 +3,6 @@ print(" ")
 print("Escreva uma operação para que ela a realize")
 
 #pegando os digitos
-print(input)
+x=input()
+y=input()
+print(x + y)
