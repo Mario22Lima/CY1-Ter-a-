@@ -6,3 +6,5 @@ print("Escreva uma operação para que ela a realize")
 x=input()
 y=input()
 print(x + y)
+
+#jose es muy gay
