@@ -2,10 +2,9 @@ print("Bem vindo a A CALCULADORA")#apresentação
 print(" ")
 print("Escreva uma operação para que ela a realize")
 
-#pegando os digitos
-x=input()
-y=input()
-print(x + y)
+# Solicitação ao usuario
+expressao = input(f"digite seu negocio: ")
 
-#josue es muy gay
-#faz sozinho hugo se fodi
+# Impressão
+resultado = eval(expressao)
+print(f"O resultado é: {resultado}")
